@@ -1,6 +1,6 @@
 {
   "name": "@twind/line-clamp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A twind plugin that provides utilities for visually truncating text after a fixed number of lines.",
   "// mark as private to prevent accidental publish - use 'yarn release'": "",
   "private": true,
