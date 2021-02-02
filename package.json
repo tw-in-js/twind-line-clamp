@@ -1,11 +1,13 @@
 {
   "name": "@twind/line-clamp",
   "version": "0.1.1",
-  "description": "A twind plugin that provides utilities for visually truncating text after a fixed number of lines.",
+  "description": "A twind extension that provides utilities for visually truncating text after a fixed number of lines.",
   "// mark as private to prevent accidental publish - use 'yarn release'": "",
   "private": true,
   "keywords": [
     "twind",
+    "extension",
+    "twind extension",
     "plugin",
     "twind plugin",
     "tailwind",

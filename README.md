@@ -1,6 +1,6 @@
 # @twind/line-clamp
 
-A plugin for [Twind](https://twind.dev) that provides utilities for visually truncating text after a fixed number of lines.
+A [Twind](https://twind.dev) extension that provides utilities for visually truncating text after a fixed number of lines.
 
 [![MIT License](https://flat.badgen.net/github/license/tw-in-js/twind-line-clamp)](https://github.com/tw-in-js/twind-line-clamp/blob/main/LICENSE)
 [![Latest Release](https://flat.badgen.net/npm/v/@twind/line-clamp?icon=npm&label&cache=10800&color=blue)](https://www.npmjs.com/package/@twind/line-clamp)
